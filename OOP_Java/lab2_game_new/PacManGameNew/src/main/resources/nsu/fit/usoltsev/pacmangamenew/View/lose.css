@@ -1,0 +1,17 @@
+#startButton {
+    -fx-graphic: url(../../../../../pictures/playButton.png);
+}
+
+#exitButton {
+    -fx-graphic: url(../../../../../pictures/exitButton.png);
+}
+
+#menuButton {
+    -fx-graphic: url(../../../../../pictures/menuButton.png);
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-background-size: contain;
+
+}

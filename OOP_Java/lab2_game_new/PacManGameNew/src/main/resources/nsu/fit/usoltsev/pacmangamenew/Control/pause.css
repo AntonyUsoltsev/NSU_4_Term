@@ -1,0 +1,9 @@
+#pauseButton {
+    -fx-background-image: url(../../../../../pictures/pause.png);
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-background-size: contain;
+}
+

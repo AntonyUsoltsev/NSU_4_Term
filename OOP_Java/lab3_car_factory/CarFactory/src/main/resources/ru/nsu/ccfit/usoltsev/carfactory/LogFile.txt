@@ -1,0 +1,26 @@
+мая 22, 2023 2:25:32 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 5fceb677-f86a-49ad-b855-c9429382e5f6, Engine 69bb528e-fbbe-48ea-b553-4914ee33ec55, Body 08599b9c-95e3-4ba0-907f-2beaa21fc7f8, Accessories ec1b08a8-5c44-495d-8f84-b693998ae92f
+мая 22, 2023 2:25:37 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 602f5c86-7027-4e4b-a589-cb300932881f, Engine ea5ea2d9-5ea1-4603-aedb-f5fd404fbf4e, Body cef9ef36-fbc1-4a17-8581-af456454aab0, Accessories 5637c26a-7328-401f-9b27-c9a42f3b5698
+мая 22, 2023 2:25:42 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: b68adc42-3c15-42a7-99eb-928a1d6cb70f, Engine c6278a22-c851-43d3-91b1-687bd7234d66, Body e1249933-1723-457b-a41e-7ef1e9ded9fc, Accessories 20c20ce8-5b36-45e6-8ced-7135fea30722
+мая 22, 2023 2:25:47 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 14268965-d177-4816-b5fb-ac82c6c986ad, Engine cc0e0eb7-c323-4e6a-a9ad-018c1defb30a, Body c66589a2-c669-4305-b865-fc39eded0a3f, Accessories ed823ed7-0652-4d36-a760-080b708bdb14
+мая 22, 2023 2:25:52 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 7375173c-ba8f-414d-81e7-c9a6392df503, Engine f88bee25-53d5-4fa9-8b9a-1106e75cedb1, Body 6800b163-330d-46b4-9c2f-2bea3aceeae4, Accessories 07da268a-dde6-479c-9238-f6d93ac86da2
+мая 22, 2023 2:25:57 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 41d30351-bea1-43f7-bc8a-258e5e691b9c, Engine b3364891-100c-44ba-9f2d-4669a1eb7d06, Body 0b9825aa-630d-458b-b8f6-54e6e6907f4c, Accessories cc6f31fe-dd99-4f2b-b128-1d4c2ea10335
+мая 22, 2023 2:26:02 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 8c026468-5ab5-42af-ae9e-7dcd5fc719d0, Engine 86bdfec6-797a-4008-8ad6-db452624bcbb, Body 2edead09-ec72-4267-a9d0-d0bd8df2870b, Accessories 1bd253c8-e77e-43d6-8a25-45c4f897fd09
+мая 22, 2023 2:26:07 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: ae28c54a-d52e-4a93-9c24-4d15925f9d3d, Engine 54b1425e-5946-4e87-831d-c63dc4b5e907, Body 9ec9d209-2aab-4333-9d44-00dd5d956a88, Accessories 3c5577b6-bb53-406b-8092-58b31ebef39f
+мая 22, 2023 2:26:12 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 0e3e09ab-2b28-4485-843d-34739f4fde3c, Engine c342fde2-d025-4923-a862-b2fc728cda5d, Body d74dfe5d-0718-4856-aed2-a4b87de1ebb5, Accessories 75763bce-a95e-40ff-9607-19d2fb370184
+мая 22, 2023 2:26:17 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 764d6a12-f623-46d7-83ef-181171f1fcaa, Engine ad7d1cd8-cb47-47be-a564-859ade9dcfbf, Body 2d167faf-acd3-4331-800e-55560bd8f122, Accessories 4882e7c5-8078-48ec-9625-c8fbf1a74e98
+мая 22, 2023 2:26:22 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 60c6bc52-ad5f-406b-9abe-0cb566dec8aa, Engine 05003451-bb9b-4312-9935-487885d998ce, Body a7aa7823-c99e-4e5c-b828-cf77f90d8413, Accessories dd60ede3-506d-438c-8ec4-10d618268c44
+мая 22, 2023 2:26:27 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: ef27e4f4-a990-44f4-be5a-bd5e976e7d56, Engine 71c2a482-8c5a-4876-a3e2-0447553aff69, Body 4786dedb-fe2e-4872-b387-28d369f03bf5, Accessories 3dcf0062-9ea1-4334-8b06-98956b296813
+мая 22, 2023 2:26:32 PM ru.nsu.ccfit.usoltsev.carfactory.dealers.Dealer run
+INFO: Buy new car: Auto: 87c2b8f2-2801-4044-a706-17c7423a2701, Engine 71203694-87aa-4be0-8c75-b7bc977e31ba, Body 53bc1cb7-e49a-43e8-b260-3c114f9442a1, Accessories a61d3164-007f-4fce-b6fa-ff64606bb035

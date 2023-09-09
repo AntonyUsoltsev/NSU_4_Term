@@ -1,0 +1,5 @@
+color   startX  startY  startDirection  picture
+red     24      720     RIGHT           /pictures/GhostPictures/RedGhost.png
+yellow  624     24      LEFT            /pictures/GhostPictures/YellowGhost.png
+blue    24      24      RIGHT           /pictures/GhostPictures/BlueGhost.png
+pink    624     720     LEFT            /pictures/GhostPictures/PinkGhost.png
