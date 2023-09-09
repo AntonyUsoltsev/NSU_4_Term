@@ -1,0 +1,56 @@
+мар. 14, 2023 9:31:09 AM Logging.MyLogger <clinit>
+CONFIG: Logger configuration loaded.
+
+мар. 14, 2023 9:31:09 AM CreateStreams.CreateStreams getOutputStream
+INFO: Results will be write to file: .\src\Result.txt 
+
+мар. 14, 2023 9:31:09 AM CreateStreams.CreateStreams getErrorStream
+INFO: Errors will be write to file: .\src\Error.txt 
+
+мар. 14, 2023 9:31:09 AM CreateStreams.CreateStreams getInputStream
+INFO: Commands will be read from file: .\src\Commands.txt 
+
+мар. 14, 2023 9:31:09 AM Calculator.Calculator <init>
+INFO: Calculator constructor success done.
+
+мар. 14, 2023 9:31:09 AM Fabric.CommandCreator loadCommands
+INFO: Command creator has created commands.
+
+мар. 14, 2023 9:31:09 AM Calculator.Calculator doCalculating
+INFO: Find comments "#hi".
+
+мар. 14, 2023 9:31:09 AM Calculator.Calculator doCalculating
+INFO: Find comments "#dfhhd".
+
+мар. 14, 2023 9:31:09 AM Commands.Push action
+INFO: Push number on stack: 1.0
+
+мар. 14, 2023 9:31:09 AM Commands.Push action
+INFO: Push number on stack: 6.0
+
+мар. 14, 2023 9:31:09 AM Commands.Push action
+INFO: Push number on stack: 7.0
+
+мар. 14, 2023 9:31:09 AM Commands.Push action
+INFO: Push number on stack: 7.0
+
+мар. 14, 2023 9:31:09 AM Commands.Push action
+INFO: Push number on stack: 8.0
+
+мар. 14, 2023 9:31:09 AM Commands.Push action
+INFO: Push number on stack: 7.0
+
+мар. 14, 2023 9:31:09 AM Calculator.Calculator doCalculating
+INFO: Find comments "#dvn".
+
+мар. 14, 2023 9:31:09 AM MyExceptions.CreateCommandsExceptions printException
+SEVERE: Unknown command:"xnbs".
+
+мар. 14, 2023 9:31:09 AM Calculator.Calculator doCalculating
+INFO: Find comments "#it is print".
+
+мар. 14, 2023 9:31:09 AM Commands.Print action
+INFO: Print top element of stack: 7.0
+
+мар. 14, 2023 9:31:09 AM Main main
+INFO: End of all calculating.
