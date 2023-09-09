@@ -5,7 +5,7 @@ About:
 
 Report:
 
-    https://docs.google.com/document/d/1TlhQDuDa5APXo7tZGId_21CRTWoeirKdkfYGhnKS5n0/edit
+https://docs.google.com/document/d/1TlhQDuDa5APXo7tZGId_21CRTWoeirKdkfYGhnKS5n0/edit
 
 Compile command:
 
