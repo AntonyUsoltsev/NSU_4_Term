@@ -1,4 +1,0 @@
-#hi
-PUSH 1 6 7 7 8 7#dfhhd
-xnbs#dvn
-PRINT #it is print
